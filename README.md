@@ -1,4 +1,5 @@
 ### :sunglasses: Hi there 👋
+[BLOG](https://tonymistark.github.io/)
 
 <!--
 **TonyMistark/TonyMistark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
