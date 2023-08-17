@@ -16,6 +16,3 @@ Here are some ideas to get you started:
 -->
 |[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TonyMistark)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TonyMistark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 | ------------- | ------------- |
-
-
-![TonyMistark’s GitHub image](https://scastiel.dev/api/image/TonyMistark)
